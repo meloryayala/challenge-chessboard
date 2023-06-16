@@ -1,0 +1,14 @@
+.chess {
+    height: 800px;
+    width: 800px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
